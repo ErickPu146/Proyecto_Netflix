@@ -1,0 +1,134 @@
+/* INICIO ESTILO MEDIA "MIN-WIDTH: 950PX"*/
+
+/* Inicio estilo header */
+.header-container{
+    height: 70rem;
+}
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 1.5rem 4.5rem;
+    height: 5rem;
+}
+.header-logo-container{
+    width: 16rem;
+}
+.languaje{
+    width: 12rem;
+    height: 4rem;
+    margin-right: 2rem;
+    font-size: 1.6rem;
+}
+.header-login{
+   width: 15rem;
+   height: 4rem;
+   font: bold;
+   font-size: 1.6rem;
+   text-align: center;
+   padding: 1rem;
+}
+.header-item3{
+    width: 75%;
+    height: 35rem;
+}
+.header-title{
+    margin-bottom: 0.5rem;
+    width: 70rem;
+}
+.header-info{
+    margin-bottom: 1rem;
+    width: 70rem;
+}
+.header-footer{
+    flex-direction: row;
+    width: 65rem;
+    height: 6rem;
+}
+.email-container{
+    width: 70%;
+    height: 100%;
+}
+.email{
+    width: 100%;
+    margin: 0;
+    height: 100%;
+    padding: 2rem;
+}
+.start{
+    width: 30%;
+    height: 100%;
+    font-size: 3rem;
+    font: bold;
+    
+}
+/* Fin del estilo del header */
+
+
+/* Inicio estilo main */
+.main-item{
+    height: 50rem;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.main-item-info{
+    display: flex;
+    flex-direction: column;
+    width: 60rem;
+    text-align: left;
+}
+.main-item-2{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.main-item1-image-container{
+    width: 40rem;
+}
+.main-item1-image{
+    width: 100%;
+    height: auto;
+}
+.main-item2-image{
+    width: 40rem;
+    height: 30rem;
+}
+.main-item2-image-container{
+    top: 25rem;
+    height: 8rem;
+}
+.main-item3-image-container{
+    width: 40rem;
+}
+.main-item3-image{
+    width: 40rem;
+}
+.main-item4-image-container{
+    width: 40rem;
+}
+/* Fin estilo main */
+
+/* Inicio estilo footer */
+.questions{
+    width: 80rem;
+}
+.footer-item1-text{
+    margin: 3rem;
+    width: 85%;
+}
+.footer-item2{
+    justify-content: center;
+    align-items: center;
+    height: 45rem;
+    width: 120rem;
+    margin: auto;
+}
+.footer-item2-list{
+    height: 0;
+}
+li{
+    font-size: 1.4rem;
+    margin-right: 3rem;
+    width: 20%;
+}
+/* Fin estilo footer */

@@ -1,0 +1,69 @@
+/* INICIO ESTILO MEDIA "MIN-WIDTH: 500PX"*/
+
+h1{
+    font-size: 4.5rem;
+    color: white; 
+} 
+h2{
+    font-size: 3rem;
+    color: white;
+} 
+h3{
+    font-size: 2rem;
+    color: white;
+    font-weight: normal;
+} 
+
+/* Inicio estilo header */
+
+.header-container{
+    height: 90rem;
+}
+.header-logo-container{
+    width: 16rem;
+}
+.header-item3{
+    height: 70rem;
+}
+.item2{
+    width: 50%;
+    height: 5rem;
+    display: flex;
+    justify-content: right;
+}
+.languaje{
+    width: 10rem;
+    background-size: 15%;
+    padding-left: 2rem;
+}
+.start{
+    width: 25%;
+}
+/* Fin estilo header */
+
+
+/* Inicio estilo main */
+.main-item{
+    height: 60rem;
+}
+.main-item2-image{
+    width: 35rem;
+    height: 40rem;
+}
+.main-item2-image-container{
+    top: 25rem;
+    width: 40rem;
+}
+/* Fin estilo main */
+
+/* Inicio estilo footer */
+.questions{
+    width: 90%;
+}
+.footer-item2{
+    height: 70vh;
+}
+li{
+    width: 25%;
+}
+/* Fin estilo footer */
